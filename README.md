@@ -13,6 +13,6 @@ Esta es mi cuenta personal destinada a proyectos que vaya haciendo. Puedes ver m
 - [RolGM](https://github.com/IvanDLPG-EDU/rolgm-project): Una plataforma web para juegos de rol que ofrece múltiples herramientas y soporte de una manera sencilla y práctica para usuarios novatos. Este proyecto está construido con Django y React + Vite.
 
 ## Contacto
-- LinkedIn: [Iván De La Poza García](https://www.linkedin.com/in/iv%C3%A1n-de-la-poza-garc%C3%ADa-a16050207/)
+- LinkedIn: [Iván De La Poza García](https://www.linkedin.com/in/ivan-dlpg/)
 
 ¡Gracias por visitar mi página de GitHub! Espero que encuentres algo interesante aquí.
