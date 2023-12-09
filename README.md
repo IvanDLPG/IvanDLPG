@@ -6,7 +6,7 @@ Esta es mi cuenta personal destinada a proyectos que vaya haciendo. Puedes ver m
 
 ## Mis habilidades
 - Lenguajes de programación: JavaScript, Python
-- Frameworks y tecnologías: Node.js, Django, React
+- Frameworks y tecnologías: Odoo, Django, React, Node.js,
 - Herramientas: Git, VS Code
 
 ## Mis proyectos
